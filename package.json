@@ -1,0 +1,19 @@
+{
+  "name": "curso-api-rest-javascript-practico2",
+  "version": "1.0.0",
+  "description": "Curso Practico de Consumo de Api Rest con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanes2018/curso-api-rest-javascript-practico2.git"
+  },
+  "author": "@juandc :)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanes2018/curso-api-rest-javascript-practico2/issues"
+  },
+  "homepage": "https://github.com/juanes2018/curso-api-rest-javascript-practico2#readme"
+}

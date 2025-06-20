@@ -1,0 +1,1 @@
+console.log('API URL = https://jejejejjee.com?api_key=' +API_KEY);
